@@ -7,4 +7,8 @@ git checkout -- "the file name"
 
 created a new branch:dev
 
-creating a new branch is quick & simple.
+
+master: creating a new branch is quick & simple.
+
+feature1: creating a new branch is quick and simple.
+
