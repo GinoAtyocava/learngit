@@ -12,3 +12,5 @@ master: creating a new branch is quick & simple.
 
 feature1: creating a new branch is quick and simple.
 
+
+merge --no-ff
