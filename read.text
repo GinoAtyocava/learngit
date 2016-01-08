@@ -16,3 +16,7 @@ feature1: creating a new branch is quick and simple.
 merge --no-ff
 issue-101
 git is free software
+
+add coding:utf-8
+
+another Gino work on this branch
